@@ -8,3 +8,7 @@ console.log(typeof name); // string
 console.log(typeof true); // boolean
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
+
+ let score;
+    console.log(score); // undefined
+    console.log(typeof score); // undefined
