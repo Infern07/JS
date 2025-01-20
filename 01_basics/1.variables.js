@@ -1,6 +1,27 @@
 const Account_Id = 123456;
-let name = "John Doe";
+let name1 = "John Doe";
 let age = 25;
 
-console.table({ Account_Id, name, age });
+console.table({ Account_Id, name1, age });
 console.log(Account_Id);
+
+var name = prompt("Enter your name bitch");
+alert("Well "+ name + " here's a flower for you princess 🌸");
+alert("also");
+alert("watch my reels niggaa");
+alert("being annoying ain't I?");
+alert("sorry yar :(");
+alert("par yar bhargayi he bahout sari")
+alert("watch my reels like how I'm watching you rn")
+alert("WARNING: this pc will shut down in 5 minutes")
+alert("it cannot handle the cuteness of the person sitting infront of it rn")
+alert("hope you enjoyed this little shit");
+var ans = prompt("waant mmoreeeee? (type yes/no)");
+if(ans == "yes" || ans=="YES" || ans=="Yes"){
+    alert("she said yes you guys... 🙏")
+}
+alert("also, ofcourse you do, everyone wants more of me");
+alert("but dw ham sirf apke to, stay tuned...");
+alert("like i do")
+alert("for your messages and calls")
+alert("byeeee <3")
